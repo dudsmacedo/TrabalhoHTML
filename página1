@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<html>
+<head>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="icon" type="img/icone.png" href="img/icone.png">
+ <title>Sobre Mim</title>
+<link rel="stylesheet" type="text/css" href="curriculo.css">
+<div id="sobre mim">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="pag1.html">SOBRE MIM</a></li>
+                <li><a href="pag2.html">PORTFÓLIO</a></li>
+                <li><a href="pag3.html">CERTIFICAÇÕES/HABILIDADES</a></li>
+                <li><a href="contato.html">CONTATO</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <img src="img/sobremim.png" alt="Imagem de perfil">
+        <center>  <p>Sou uma estudante de Análise e Desenvolvimento de Sistemas na Faculdade REGES de Ribeirão Preto, apaixonada pela área tecnológica (com foco em desenvolvimento de aplicativos móveis e análise de dados). Atualmente, trabalho com Jovem Aprendiz na Nestlé, sou responsável por atualizar e extrair BD, além disso, estou iniciando um profundo aprendizado em Power BI.</p> </center>
+    </main>
+</body>
+</html>
+
+
+    color: #fff;
+    margin-right: 10px;
+}
