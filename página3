@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<html>
+<head>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="icon" type="img/icone.png" href="img/icone.png">
+<!-- PÁGINA PORTFÓLIO -->
+<link rel="icon" type="img/icone.png" href="img/icone.png">
+<title> Certificações/Habilidades</title>
+<link rel="stylesheet" type="text/css" href="curriculo.css">
+<div id="Certificações/Habilidades">
+   <header>
+       <nav>
+           <ul>
+               <li><a href="#pag1.html">SOBRE MIM</a></li>
+               <li><a href="#pag2.html">PORTFÓLIO</a></li>
+               <li><a href="#pag3.html">CERTIFICAÇÕES/HABILIDADES</a></li>
+               <li><a href="#contato.html">CONTATO</a></li>
+           </ul>
+       </nav>
+   </header>
+   <main>
+       <h1>Certificações</h1>
+       <ul>
+           <li>
+               <h3>Excel - Alura (8h);
+                Dev. Android - Senai (40h);
+                Pacote Office - Prime Cursos (30h);
+                Inglês (B1) - Em andamento;
+                Espanhol (B1)  - Em andamento;
+                ADS - Faculdade REGES 3º Termo.</h3>
+               
+           </li>
+           <h2>Habilidades</h2>
+           <ul>
+               <li>
+                   <h3>Autodidata;
+                    Nível avançado em Pacote Office;
+                    Linux;
+                    Modelagem de Sistemas;
+                    Modelagem de Dados;
+                    Metodologia agéis;
+                    SQL; Dart e DAX.</h3>
+               </li>
+       </ul>
+   </main>
+</div>
+</body>
+</html>
