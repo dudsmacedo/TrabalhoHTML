@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<html>
+<head>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="icon" type="img/icone.png" href="img/icone.png">
+<!-- PÁGINA PORTFÓLIO -->
+<link rel="icon" type="img/icone.png" href="img/icone.png">
+<title>Contato</title>
+<link rel="stylesheet" type="text/css" href="curriculo.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<div id="contato">
+    <title>Entre em contato comigo!</title>
+</head>
+<body>
+    <h2>Entre em contato comigo !</h2>
+    <hr />
+    <form action="" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Deixe sua mensagem aqui</legend>
+            <label>Mensagem: </label>
+            <input type="text" name="mensagem" id="mensagem" required/>
+            <input type="submit" value="Enviar"/>
+            <input type="reset" value="Limpar"/>        
+        </fieldset>
+    </form>
+    <center>
+        <a href="https://www.linkedin.com/in/maria-eduarda-macedo-neves-9b47a7261/">
+         <span class="fab fa-linkedin"></span> Meu Linkedin
+       </a>  
+     </center>
+    </body>
+    </html>
